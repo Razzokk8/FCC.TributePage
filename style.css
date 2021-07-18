@@ -32,6 +32,9 @@ h1 {
   padding-top: 35px;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
+h3 {
+  font-weight: 300;
+}
 .tro,
 ul {
   max-width: 600px;
@@ -76,6 +79,7 @@ li,
   padding-left: 20px;
   background-color: gold;
   box-shadow: none;
+  line-height: 2rem;
 }
 main {
   background-color: gold;
